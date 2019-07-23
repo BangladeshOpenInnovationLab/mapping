@@ -9,7 +9,7 @@
 | Bidhan Bhuson Roy      | [bbroy13](https://www.openstreetmap.org/user/bbroy13)                                   |
 | Fazle Rabbi            | [fazlerabbi37](https://www.openstreetmap.org/user/fazlerabbi37)                         |
 | Rajib Kumar Chanda     | [Rajib Kumar Chanda](https://www.openstreetmap.org/user/Rajib%20Kumar%20Chanda)         |
-| Kazi Abdur Nur Tusher  | [Kazi tusher](https://www.openstreetmap.org/user/Kazi%20tusher)                         |
+| Kazi Abdur Nur Tusher  | [kazi tusher](https://www.openstreetmap.org/user/kazi%20tusher)                         |
 | Rayhan Hosen           | [Rayhan Hossen](https://www.openstreetmap.org/user/Rayhan%20Hossen)                     |
 | Sajjad Hossen          | [Sajjadsapan](https://www.openstreetmap.org/user/Sajjadsapan)                           |
 | Antara Das Tithi       | [AntaraTithi](https://www.openstreetmap.org/user/AntaraTithi)                           |
