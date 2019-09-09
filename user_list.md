@@ -1,4 +1,4 @@
-# List of users working the BOIL
+# List of users working with Bangladesh Open Innovation Lab(BOIL)
 
 
 | Name                   | OSM Username                                                                            |
