@@ -32,5 +32,5 @@
 | Nazmun Nahar Chowdhury | [Nazmun Nahar Chowdhury](https://www.openstreetmap.org/user/Nazmun%20Nahar%20Chowdhury) |Left Team on Sep 30, 2019                    |
 | Md Rakibul Hossain     | [rakibdc](https://www.openstreetmap.org/user/rakibdc)                                   |Active                                       |
 | Maeed Hassan Shadi     | [MH SHADI](https://www.openstreetmap.org/user/MH%20SHADI)                               |Left Team on Sep 30, 2019                    |
-| Mahamuda Afroze        | [Mahamuda Afroze](https://www.openstreetmap.org/user/Mahamuda)                          |Left Team on Sep 30, 2019                    |
+| Mahamuda Afroze        | [Mahamuda](https://www.openstreetmap.org/user/Mahamuda)                          |Left Team on Sep 30, 2019                    |
 
