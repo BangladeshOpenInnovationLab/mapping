@@ -27,8 +27,9 @@
 | Mahede Hasan           | [Mahede Hasan](https://www.openstreetmap.org/user/Mahede%20Hasan)                       |Active                                       |
 | Ali Rohamatullah Khan  | [rohamot](https://www.openstreetmap.org/user/rohamot)                                   |Active                                       |
 | Md Shahed Hossain      | [Shahed Naeem](https://www.openstreetmap.org/user/Shahed%20Naeem)                       |Active                                       |
-| Saima Akter            | [Saima Akter Tithi](https://www.openstreetmap.org/user/Saima%20Akter%20Tithi)           |Active                                       |
-| Nurjahen Akter Shathy  | [Nurjahan](https://www.openstreetmap.org/user/Nurjahan)                                 |Active                                       |
-| Nazmun Nahar Chowdhury | [Nazmun Nahar Chowdhury](https://www.openstreetmap.org/user/Nazmun%20Nahar%20Chowdhury) |Active                                       |
+| Saima Akter            | [Saima Akter Tithi](https://www.openstreetmap.org/user/Saima%20Akter%20Tithi)           |Left Team on Aug 31, 2019                    |
+| Nurjahen Akter Shathy  | [Nurjahan](https://www.openstreetmap.org/user/Nurjahan)                                 |Left Team on Aug 31, 2019                    |
+| Nazmun Nahar Chowdhury | [Nazmun Nahar Chowdhury](https://www.openstreetmap.org/user/Nazmun%20Nahar%20Chowdhury) |Left Team on Sep 30, 2019                    |
 | Md Rakibul Hossain     | [rakibdc](https://www.openstreetmap.org/user/rakibdc)                                   |Active                                       |
-| Maeed Hassan Shadi     | [MH SHADI](https://www.openstreetmap.org/user/MH%20SHADI)                               |Active                                       |
+| Maeed Hassan Shadi     | [MH SHADI](https://www.openstreetmap.org/user/MH%20SHADI)                               |Left Team on Sep 30, 2019                    |
+| Mahamuda Afroze        | [Mahamuda](https://www.openstreetmap.org/user/Mahamuda)                                 |Left Team on Sep 30, 2019                    |
